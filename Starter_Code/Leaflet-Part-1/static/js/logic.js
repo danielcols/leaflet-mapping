@@ -20,7 +20,7 @@ function createFeatures(earthquakeData, platesData){
             opacity: 0.8,
             fillOpacity: 0.35
         }
-        return Location.circleMarker(latlng, options);
+        return L.circleMarker(latlng, options);
     }
 
     // Variable for earthquakes to house latlng
