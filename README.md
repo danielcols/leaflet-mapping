@@ -1,4 +1,4 @@
-# leaflet-challenge
+# leaflet-mapping
 
 The result of this effort is a comprehensive earthquake visualization that effectively conveys the geographical distribution, magnitude, and depth of recent seismic activity. The map's interactivity and informative markers enhance the user's engagement with the dataset. In the process of visualizing earthquake data, I successfully completed the following steps:
 
